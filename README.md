@@ -1,6 +1,12 @@
 # Azure_Kinect_ROS_Driver
 for avatar project
 
+## Dependence
+### CUDA 10.0
+
+
+### cuDNN 7.6.5
+
 
 # 원본 출처
 ## Azure Kinect ROS Driver
